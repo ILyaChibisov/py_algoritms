@@ -13,4 +13,3 @@ while user_digit != 0:
     user_digit //= 10
 
 print(f'Новое число: {new_digit}')
-
